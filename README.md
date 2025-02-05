@@ -36,9 +36,8 @@ O código está organizado da seguinte forma:
 ## Como Compilar e Executar
 1. Certifique-se de ter o ambiente de desenvolvimento do Raspberry Pi Pico configurado.
 2. Clone este repositório:
-   ```sh
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Davimmo/semaforo-Raspberry-Pi-Pico-W.git)
-   ```
+   [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Davimmo/semaforo-Raspberry-Pi-Pico-W.git)
+   
 3. Importe o projeto utilizando as pastas BitDogLab ou Simulacao
    
 4. Compile o projeto utilizando a extensão para Raspberry Pi Pico
